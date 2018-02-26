@@ -1,0 +1,23 @@
+{
+  "name": "Self-learning-Nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrinhCDanh/Self-learning-Nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrinhCDanh/Self-learning-Nodejs/issues"
+  },
+  "homepage": "https://github.com/TrinhCDanh/Self-learning-Nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
