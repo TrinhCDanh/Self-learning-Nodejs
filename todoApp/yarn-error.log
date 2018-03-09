@@ -1,0 +1,43 @@
+Arguments: 
+  E:\Program\Nodejs\node.exe C:\Users\trinh\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js install express ejs body-parser --save
+
+PATH: 
+  C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;E:\Program\Nodejs\;E:\Program\Git\cmd;C:\ProgramData\ComposerSetup\bin;E:\Program\wamp64\bin\php\php7.1.9;E:\Program\Genymotion\tools;C:\Users\trinh\AppData\Local\Microsoft\WindowsApps;C:\Users\trinh\AppData\Roaming\npm;C:\Users\trinh\AppData\Local\GitHubDesktop\bin;C:\Users\trinh\AppData\Roaming\Composer\vendor\bin;E:\Program\Microsoft VS Code\bin;E:\Program\MongoDB\Server\3.6\bin\;E:\Program\Java\jdk1.8.0_161\bin;C:\Users\trinh\AppData\Local\atom\bin
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  6.11.0
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  {
+    "name": "todoApp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: `install` has been replaced with `add` to add new dependencies. Run "yarn add express ejs body-parser" instead.
+      at MessageError.Error (native)
+      at new MessageError (C:\Users\trinh\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:186:110)
+      at Object.<anonymous> (C:\Users\trinh\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:21987:13)
+      at next (native)
+      at step (C:\Users\trinh\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:98:30)
+      at C:\Users\trinh\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:109:13
